@@ -2,4 +2,4 @@
 
 Hi there! This repository holds all the projects I did or am doing. The primary language I use for these is Python, specifically using the pandas library. 
 
-My primary goal here is to improve my data wrangling and overall analysis. 
+My primary goal here is to improve my data wrangling skills and overall analysis. 
